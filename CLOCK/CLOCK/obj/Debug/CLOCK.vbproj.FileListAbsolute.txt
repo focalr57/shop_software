@@ -1,0 +1,17 @@
+c:\users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\CLOCK.vbproj.GenerateResource.Cache
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\bin\Debug\Manage.exe.config
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\bin\Debug\Manage.exe
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\bin\Debug\Manage.pdb
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\bin\Debug\Manage.xml
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Manage.exe
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Manage.xml
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Manage.pdb
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Interop.Office.dll
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\CLOCK.vbproj.ResolveComReference.cache
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Management.clock.resources
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Management.Resources.resources
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Management.UserInterface.resources
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Management.quotes.resources
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Management.job_orders.resources
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Management.Sales_Orders.resources
+C:\Users\rjarrett\Documents\Documents\Personal\CLOCK\CLOCK\obj\Debug\Management.customers.resources
